@@ -650,8 +650,7 @@
         </profile>
    </profiles>
 <distributionManagement>
-    
-    <!-- For release versions -->
+     <!-- For release versions -->
     <repository>
       <id>maven-releases</id>
       <name>Nexus Release Repository</name>
