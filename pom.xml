@@ -663,6 +663,6 @@
       <name>Nexus Snapshot Repository</name>
       <url>http://13.233.15.79:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
-  </distributionManagement>
+</distributionManagement>
     
 </project>
