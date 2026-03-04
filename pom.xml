@@ -654,14 +654,14 @@
     <repository>
       <id>maven-releases</id>
       <name>Nexus Release Repository</name>
-      <url>http://52.66.208.8:8081/repository/maven-releases/</url>
+      <url>http://13.233.15.79:8081/repository/maven-releases/</url>
     </repository>
 
     <!-- For snapshot versions -->
     <snapshotRepository>
       <id>maven-snapshots</id>
       <name>Nexus Snapshot Repository</name>
-      <url>http://52.66.208.8:8081/repository/maven-snapshots/</url>
+      <url>http://13.233.15.79:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
     
